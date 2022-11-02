@@ -1,5 +1,9 @@
 # InSAR-Workshop-ISPRA #
 
+
+  <img width="600" src="https://github.com/InSARw2022/InSAR-workshop-ISPRA/blob/main/Programma.jpg">
+</p>
+
 "La Terra vista dal cielo: aspetti metodologici e applicativi della tecnica InSAR per l’analisi del ground motion"
 
 Il Workshop 2022 riprende il tema del 2021 orientato alla informazione sui servizi operativi di ground motion basati su interferometria satellitare.
