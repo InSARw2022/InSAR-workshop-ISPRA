@@ -7,7 +7,6 @@ Obiettivo di questa edizione è fornire ad amministratori e professionisti gli e
 Il Workshop è organizzato da ISPRA (Dipartimento per il Servizio Geologico d’Italia), con il contributo delle Regioni e Province Autonome afferenti alla Rete Italiana dei Servizi Geologici (RISG) - Tavolo Copernicus Geologia Operativa ed il supporto del Consiglio Nazionale dei Geologi e della Copernicus Academy.
 
 
-(è necessaria la registrazione su github https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home )
 
 
 ## 1. Materiali  ##
@@ -25,6 +24,6 @@ https://drive.google.com/drive/folders/1vsCYkgshvRCGJqcUVneoDFV0XZy4vLWl?usp=sha
 
 ## 2. Spizzichino paga l'aperitivo ##
 
-## Contattaci ##
+## Forum  ##
 + Per richiesta di info o domande [scrivi qui](https://github.com/InSARw2022/InSAR-workshop-ISPRA/discussions).
 + E' necessaria la registrazione su github [clicca qui](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
