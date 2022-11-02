@@ -1,6 +1,7 @@
 ##################################################################  
 ##################      InSAR-workshop-ISPRA   ###################
 ##################################################################
+
 "La Terra vista dal cielo: aspetti metodologici e applicativi della tecnica InSAR per l’analisi del ground motion"
 
 Il Workshop 2022 riprende il tema del 2021 orientato alla informazione sui servizi operativi di ground motion basati su interferometria satellitare.
@@ -13,6 +14,7 @@ Presentazioni del modulo 1, 5 ottobre 2022 (ETE)
 https://drive.google.com/drive/folders/1R4qDSlr3wgRWCl8L_Gi8Bk0cXs4NR9Hn
 
 Video del modulo 1, 5 ottobre 2022 (ETE)
+
 https://drive.google.com/drive/folders/1vsCYkgshvRCGJqcUVneoDFV0XZy4vLWl?usp=sharing
 
 
