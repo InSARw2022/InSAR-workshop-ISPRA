@@ -21,7 +21,7 @@ https://drive.google.com/drive/folders/1R4qDSlr3wgRWCl8L_Gi8Bk0cXs4NR9Hn
 https://drive.google.com/drive/folders/1vsCYkgshvRCGJqcUVneoDFV0XZy4vLWl?usp=sharing
 
 
-### Dati InSAR per esercitazione ###
+### Set di dati InSAR di esempio ###
 [...]
 
 
