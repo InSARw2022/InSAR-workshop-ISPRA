@@ -1,7 +1,7 @@
 # InSAR Ground Motion Workshop 2022 (ISPRA) #
 
-
-  <img width="600" src="https://github.com/InSARw2022/InSAR-workshop-ISPRA/blob/main/Programma.jpg">
+<p align="center">
+  <img width="700" src="https://github.com/InSARw2022/InSAR-workshop-ISPRA/blob/main/Programma.jpg">
 </p>
 
 
