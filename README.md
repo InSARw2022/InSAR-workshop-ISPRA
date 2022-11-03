@@ -18,14 +18,13 @@ Il Workshop è organizzato da ISPRA (Dipartimento per il Servizio Geologico d’
 https://drive.google.com/drive/folders/1R4qDSlr3wgRWCl8L_Gi8Bk0cXs4NR9Hn
 
 ### Video del modulo 1, 5 ottobre 2022 (ETE) ###
-https://drive.google.com/drive/folders/1vsCYkgshvRCGJqcUVneoDFV0XZy4vLWl?usp=sharing
+https://www.youtube.com/watch?v=c47z7YCKe0c
 
 
 ### Set di dati InSAR di esempio ###
-[...]
+[...soon available]
 
 
-## 2. Spizzichino paga l'aperitivo ##
 
 ## Forum  ##
 + Per richiesta di info o domande [scrivi qui](https://github.com/InSARw2022/InSAR-workshop-ISPRA/discussions).
