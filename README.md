@@ -20,6 +20,8 @@ https://drive.google.com/drive/folders/1R4qDSlr3wgRWCl8L_Gi8Bk0cXs4NR9Hn
 ### Video del modulo 1, 5 ottobre 2022 (ETE) ###
 https://www.youtube.com/watch?v=c47z7YCKe0c
 
+### Video del modulo , 3 novembre 2022 ###
+https://www.youtube.com/watch?v=7sR1SrlTuzs&t=8s
 
 ### Set di dati InSAR di esempio ###
 https://drive.google.com/drive/folders/1yGAgKIgNv8VNNKZGere-j4Mr_Uy8EiPE?usp=sharing
