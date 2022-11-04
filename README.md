@@ -20,6 +20,9 @@ https://drive.google.com/drive/folders/1R4qDSlr3wgRWCl8L_Gi8Bk0cXs4NR9Hn
 ### Video del modulo 1 (5 ottobre 2022, ETE) ###
 https://www.youtube.com/watch?v=c47z7YCKe0c
 
+### Presentazioni del modulo 2 (3 novembre 2022) ###
+https://drive.google.com/drive/folders/11ADf_0jZV7Mjn_xYrY67SiS8BpudHU6o?usp=share_link
+
 ### Video del modulo 2 (3 novembre 2022) ###
 https://www.youtube.com/watch?v=7sR1SrlTuzs&t=8s
 
