@@ -26,6 +26,9 @@ https://drive.google.com/drive/folders/11ADf_0jZV7Mjn_xYrY67SiS8BpudHU6o?usp=sha
 ### Video del modulo 2 (3 novembre 2022) ###
 https://www.youtube.com/watch?v=7sR1SrlTuzs&t=8s
 
+### Presentazioni del modulo 3 (4 novembre 2022) ###
+https://drive.google.com/file/d/1ZaaKxAn0tfFBGsAzZWvvqzHNoAfLy1XZ/view?usp=share_link
+
 ### Video del modulo 3 (4 novembre 2022) ###
 [soon available]
 
