@@ -14,22 +14,22 @@ Il Workshop è organizzato da ISPRA (Dipartimento per il Servizio Geologico d’
 
 ## 1. Materiali  ##
 
-### Presentazioni del modulo 1 (5 ottobre 2022, ETE) ###
+### Presentazioni del modulo 1 - (5 ottobre 2022, ETE) ###
 https://drive.google.com/drive/folders/1R4qDSlr3wgRWCl8L_Gi8Bk0cXs4NR9Hn
 
-### Video del modulo 1 (5 ottobre 2022, ETE) ###
+### Video del modulo 1 - (5 ottobre 2022, ETE) ###
 https://www.youtube.com/watch?v=c47z7YCKe0c
 
-### Presentazioni del modulo 2 (3 novembre 2022) ###
+### Presentazioni del modulo 2 - (3 novembre 2022) ###
 https://drive.google.com/drive/folders/11ADf_0jZV7Mjn_xYrY67SiS8BpudHU6o?usp=share_link
 
-### Video del modulo 2 (3 novembre 2022) ###
+### Video del modulo 2 - (3 novembre 2022) ###
 https://www.youtube.com/watch?v=7sR1SrlTuzs&t=8s
 
-### Presentazioni del modulo 3 (4 novembre 2022) ###
+### Presentazioni del modulo 3 - (4 novembre 2022) ###
 https://drive.google.com/file/d/1ZaaKxAn0tfFBGsAzZWvvqzHNoAfLy1XZ/view?usp=share_link
 
-### Video del modulo 3 (4 novembre 2022) ###
+### Video del modulo 3 - (4 novembre 2022) ###
 https://www.youtube.com/watch?v=uikYH0eM2AY
 
 ### Set di dati InSAR di esempio ###
