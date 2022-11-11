@@ -32,6 +32,12 @@ https://drive.google.com/drive/folders/1gRNW7Jm-l22G8ZtdXRCge-aSwi_YfCWN?usp=sha
 ### Video del modulo 3 - (4 novembre 2022) ###
 https://www.youtube.com/watch?v=uikYH0eM2AY
 
+### Presentazioni del modulo 4 - (11 novembre 2022) ###
+https://drive.google.com/drive/folders/1aslUTXLu0hr9LYyQ9-6Cbf63J51vk9mF?usp=share_link
+
+### Video del modulo 4 - (11 novembre 2022) ###
+[... available soon]
+
 ### Set di dati InSAR di esempio ###
 https://drive.google.com/drive/folders/1yGAgKIgNv8VNNKZGere-j4Mr_Uy8EiPE?usp=sharing
 
