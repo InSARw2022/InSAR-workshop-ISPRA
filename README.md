@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=uikYH0eM2AY
 https://drive.google.com/drive/folders/1aslUTXLu0hr9LYyQ9-6Cbf63J51vk9mF?usp=share_link
 
 ### Video del modulo 4 - (11 novembre 2022) ###
-[... available soon]
+[https://www.youtube.com/watch?v=YJIg-uuvfDs]
 
 ### Set di dati InSAR di esempio ###
 https://drive.google.com/drive/folders/1yGAgKIgNv8VNNKZGere-j4Mr_Uy8EiPE?usp=sharing
