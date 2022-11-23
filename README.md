@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=YJIg-uuvfDs
 https://drive.google.com/drive/folders/1hrJHrJyMB7_i2QVYVqtnOqvXG6N3w4yb?usp=sharing
 
 ### Video del modulo 5 - (15 novembre 2022) ###
-[...soon available]
+https://youtu.be/UB39EPbkkuI
 
 
 ## Forum  ##
